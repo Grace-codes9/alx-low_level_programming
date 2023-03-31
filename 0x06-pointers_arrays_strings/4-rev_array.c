@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * reverse_arblessing - function
+ * reverse_array - function
  * @a: param
  * @n: param
  */
 
-void reverse_arblessing(int *a, int n)
+void reverse_array(int *a, int n)
 {
 	int blessing = 0;
 	int leo;
